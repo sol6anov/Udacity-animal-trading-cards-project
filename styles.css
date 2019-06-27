@@ -1,0 +1,49 @@
+/* add your CSS here */
+
+
+.wide{
+    width: 300px;
+
+  }
+.NOdot
+{
+    list-style-type: none;
+    padding: 0em;
+    
+}
+.borders
+{
+    border: 1px solid;
+    padding: 1em;
+
+}
+.Center
+{
+    text-align: center;
+    font-size: 3.5ch
+}    
+
+.BackGround
+{
+    
+    background-color: blueviolet
+    
+}
+
+
+}
+.paddings
+{
+    padding-bottom: 1em;
+
+}
+
+.Bold
+{
+    font-weight: bold;
+}
+
+.Font-style
+{
+    font-style: italic
+}
